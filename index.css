@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+    
+}
+.button{
+  width:70px;
+  height:70px;
+}
+.red{
+  background-color: red;
+}
+.green{
+  background-color:green;
+}
+.yellow{
+  background-color: yellow;
+}
+.purple{
+  background-color: purple;
+}
+.pink{
+  background-color:pink;
+}
+.div{
+  width:400px;
+  height:400px;
+  background: 2px solid green;
+  box-shadow: 5px 5px 5px black;
+  margin: auto;
+}
